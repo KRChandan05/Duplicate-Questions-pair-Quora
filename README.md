@@ -19,6 +19,6 @@
 ### __NOTE:__ Sampled data to 30000 and 10000 rows beacuse of Hardware contraints, model would've been better if a bigger sample was used.
 
 ## Model:
--### Initial EDA
--### Basic text data preprocessing,  Bag of words embedding and constructing some basic new features.
--### Adding more advanced features, including fuzzy features([ https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/]) to improve the performance of our model. 
+- ### Initial EDA
+- ### Basic text data preprocessing,  Bag of words embedding and constructing some basic new features.
+- ### Adding more advanced features, including fuzzy features([ https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/]) to improve the performance of our model. 

@@ -16,7 +16,7 @@
 ### No. of duplicate data points is 149263
 
 ### We have 404290 training data points. And only 36.92% are positive. That means it is an imbalanced dataset.
-### __NOTE:__ Sampled data to 30000 and 10000 rows beacuse of Hardware contraints, model would've been better if a bigger sample was used.
+### __NOTE:__ *Sampled data to 30000 and 10000 rows beacuse of Hardware contsraints, model would've been better if a bigger sample was used.*
 
 ## Model:
 - ### Initial EDA
